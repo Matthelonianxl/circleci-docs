@@ -16,7 +16,7 @@
     "@types/react-select": "^3.0.10",
     "codemirror": "5.49.2",
     "js-yaml": "^3.13.1",
-    "ramda": "^0.26.1",
+    "ramda": "^0.27.1",
     "react": "^16.12.0",
     "react-codemirror2": "^6.0.0",
     "react-dom": "^16.12.0",
